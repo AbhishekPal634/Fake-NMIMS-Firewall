@@ -3,27 +3,26 @@ body {
 }
 
 .box1 {
-    background-color: #ccc;
+    background-color: #eeeeee;
     text-align: center;
     vertical-align: middle;
-    height: 349.5px;
-    width: 550px;
-    font-size: 21px;
-    border: solid 3px red;
-    font-family: 'helvetica', sans-serif;;
-    font-weight: bold;
+    height: 345px;
+    width: 500px;
+    font-size: 18px;
+    border: solid 2px red;
+    font-family: 'helvetica', sans-serif;
     line-height: 20px;
     margin: auto;
 }
 
 .screen {
-    padding: 12%;
+    padding: 13%;
 }
 
 
 .logo {
-    max-width: 80px;
-    max-height: 80px;
+    width: 65px;
+    height: 81.25px;
 }
 
 .h5 {
@@ -31,31 +30,38 @@ body {
 }
 
 .box2 {
-    background-color: rgb(167, 167, 167);
-    height: 235px;
+    background-color: #cccccc;
+    height: 219.5px;
     font-weight: lighter;
-    font-size: 18px;
-    line-height: 15px;
+    font-size: 16px;
+    line-height: 13px;
 }
 
 form {
-    line-height: 22px;
+    position: relative;
+    right: 3%;
+    line-height: 21px;
+    font-size: 16px;
 }
 
 .usernamebox {
-    width: 230px;
+    width: 233px;
+    height: 17px;
 }
 
 .passbox {
-    width: 230px;
+    width: 233px;
+    height: 17px;
 }
 
 .button {
     position: relative;
     left: 29%;
-    font-size: 15px;
-    padding-right: 3px;
-    padding-left: 3px;
+    font-size: 13.5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 *{
