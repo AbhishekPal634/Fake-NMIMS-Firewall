@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+.box1 {
+    background-color: #ccc;
+    text-align: center;
+    vertical-align: middle;
+    height: 380px;
+    font-size: 21px;
+    border: solid 3px red;
+    font-family: 'helvetica', sans-serif;;
+    font-weight: bold;
+}
+
+.screen {
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 10%;
+}
+
+.logo {
+    max-width: 80px;
+    max-height: 80px;
+}
+
+.h5 {
+    text-align: left;
+}
+
+.box2 {
+    background-color: rgb(167, 167, 167);
+    height: 245px;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+form {
+    line-height: 20px;
+}
+
+.usernamebox {
+    width: 270px;
+}
+
+.passbox {
+    width: 270px;
+}
+
+.button {
+    position: relative;
+    left: 30%;
+}
+
