@@ -6,18 +6,20 @@ body {
     background-color: #ccc;
     text-align: center;
     vertical-align: middle;
-    height: 380px;
+    height: 349.5px;
+    width: 550px;
     font-size: 21px;
     border: solid 3px red;
     font-family: 'helvetica', sans-serif;;
     font-weight: bold;
+    line-height: 20px;
+    margin: auto;
 }
 
 .screen {
-    padding-left: 30%;
-    padding-right: 30%;
-    padding-top: 10%;
+    padding: 12%;
 }
+
 
 .logo {
     max-width: 80px;
@@ -30,26 +32,34 @@ body {
 
 .box2 {
     background-color: rgb(167, 167, 167);
-    height: 245px;
+    height: 235px;
     font-weight: lighter;
     font-size: 18px;
-    line-height: 10px;
+    line-height: 15px;
 }
 
 form {
-    line-height: 20px;
+    line-height: 22px;
 }
 
 .usernamebox {
-    width: 270px;
+    width: 230px;
 }
 
 .passbox {
-    width: 270px;
+    width: 230px;
 }
 
 .button {
     position: relative;
-    left: 30%;
+    left: 29%;
+    font-size: 15px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
